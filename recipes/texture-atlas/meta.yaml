@@ -25,6 +25,7 @@ requirements:
     # otherwise we get an undefined error
     - x264 20131218
     - libboost 1.67.*
+    - kealib 1.4.7.*
 
 test:
   commands:
